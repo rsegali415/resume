@@ -27,7 +27,7 @@ footer {
   }
   
   span {
-    font-size: 24px;
+    font-size: 1.5px;
     margin-left: 10px;
   }
   
@@ -50,7 +50,7 @@ footer {
   
   li #head:hover {
     color: #eb750e;
-    font-size: 18px;
+    font-size: 1.125rem;
   }footer {
     background: #333;
     color: white;
@@ -70,7 +70,7 @@ footer {
   }
   
   span {
-    font-size: 24px;
+    font-size: 1.5rem;
     margin-left: 10px;
   }
   
@@ -94,7 +94,7 @@ footer {
   
   li #head:hover {
     color: #eb750e;
-    font-size: 18px;
+    font-size: 1.125rem;
   }
 
   h1 {
