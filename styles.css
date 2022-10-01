@@ -101,12 +101,12 @@ footer {
     text-align: center;
   }
 
-  #downloadResume: {
+  #downloadResume {
     text-decoration: underline;
     color: black;
   }
 
-#downloadResume {
+#downloadResume:hover {
   text-size:20px;
   color:black;
 }
